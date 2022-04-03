@@ -1,7 +1,9 @@
 ﻿#include <iostream>
 
+#include "bubbleSort.hpp"
 #include "mergeSort.hpp"
 #include "heapSort.hpp"
+#include "quickSort.hpp"
 
 void printArray(int* A, int N)
 {

@@ -142,8 +142,10 @@
     <ClCompile Include="Sort.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="bubbleSort.hpp" />
     <ClInclude Include="heapSort.hpp" />
     <ClInclude Include="mergeSort.hpp" />
+    <ClInclude Include="quickSort.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
