@@ -1,0 +1,10 @@
+﻿  Sort.cpp
+C:\Users\ildar\Documents\algos\Sort\Sort\mergeSort.hpp(31,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ildar\Documents\algos\Sort\Sort\mergeSort.hpp(34,35): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ildar\Documents\algos\Sort\Sort\mergeSort.hpp(39,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ildar\Documents\algos\Sort\Sort\mergeSort.hpp(53,14): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ildar\Documents\algos\Sort\Sort\mergeSort.hpp(53,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ildar\Documents\algos\Sort\Sort\mergeSort.hpp(65,14): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ildar\Documents\algos\Sort\Sort\mergeSort.hpp(69,14): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ildar\Documents\algos\Sort\Sort\mergeSort.hpp(74,31): warning C4018: <=: несоответствие типов со знаком и без знака
+  Sort.vcxproj -> C:\Users\ildar\Documents\algos\Sort\x64\Debug\Sort.exe
