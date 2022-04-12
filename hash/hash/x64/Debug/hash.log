@@ -1,0 +1,39 @@
+﻿  hash.cpp
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(79,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(79,31): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(16,54): error C2059: синтаксическая ошибка: )
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(18,26): error C2039: "inds": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(19): error C2039: "<begin>": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(18,26): error C3312: не найдена вызываемая функция "begin" для типа "unknown-type"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(19): error C2039: "<end>": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(18,26): error C3312: не найдена вызываемая функция "end" для типа "unknown-type"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(18,5): error C2039: "i": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(18,5): error C2530: i: ссылки должны быть инициализированы
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(18,5): error C3531: i: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(18,24): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(18,30): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(20,30): error C2039: "inds": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(21): error C2039: "<begin>": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(20,30): error C3312: не найдена вызываемая функция "begin" для типа "unknown-type"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(21): error C2039: "<end>": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(20,30): error C3312: не найдена вызываемая функция "end" для типа "unknown-type"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(20,9): error C2039: "j": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(20,9): error C2530: j: ссылки должны быть инициализированы
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(20,9): error C3531: j: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(20,28): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(20,34): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(25,30): error C2039: "<<": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(25,42): error C2039: "<<": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(26,5): error C2039: "system": не является членом "std::vector<hash::S,std::allocator<hash::S>>".
+C:\Users\ildar\Documents\algos\hash\hash\hash.hpp(20): message : см. объявление "std::vector<hash::S,std::allocator<hash::S>>"
+C:\Users\ildar\Documents\algos\hash\hash\hash.cpp(26,5): error C2065: system: необъявленный идентификатор
